@@ -12,6 +12,7 @@
 <!--Start Body -->
 <body>
 <h1 align="center">Hello, World</h1>
+<hr/>
 <p>Test</p>
 </body>
 
@@ -19,6 +20,7 @@
 <footer>
 
 <!-- start Copyright -->
-<center>&copy;2016 Stematel.net By Naufal</center>
-
+<center
+&copy;2016 Stematel.net By Naufal
+</center
 </footer>
